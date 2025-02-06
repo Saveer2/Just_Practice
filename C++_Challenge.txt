@@ -1,0 +1,137 @@
+Basic C++ Syntax and Data Types
+Write a program to print "Hello, World!".
+Write a program that takes two integers as input and prints their sum.
+Write a program to check if a number is even or odd.
+Write a program to find the largest of three numbers.
+Write a program to check whether a given number is prime.
+Write a program to calculate the factorial of a number.
+Write a program to calculate the Fibonacci series up to n terms.
+Write a program to reverse a given integer.
+Write a program to count the number of digits in a given number.
+Write a program to calculate the power of a number using loops.
+Write a program to swap two variables without using a third variable.
+Write a program to find the greatest common divisor (GCD) of two numbers.
+Write a program to find the least common multiple (LCM) of two numbers.
+Write a program to print all prime numbers between two numbers.
+Write a program to convert a number from decimal to binary.
+Write a program to convert a number from binary to decimal.
+Write a program to find the sum of digits of a number.
+Write a program to check whether a number is a perfect number or not.
+Write a program to print a multiplication table of a given number.
+Write a program to check whether a given string is a palindrome.
+Write a program to concatenate two strings.
+Write a program to count the occurrences of a character in a string.
+Write a program to reverse a string without using a library function.
+Write a program to find the longest word in a sentence.
+Write a program to check if a given year is a leap year.
+Control Flow Statements
+Write a program to demonstrate the use of if-else statements.
+Write a program to demonstrate the use of switch statement.
+Write a program that finds the roots of a quadratic equation.
+Write a program to find the sum of natural numbers using a while loop.
+Write a program to print numbers from 1 to 100 using a for loop.
+Write a program to calculate the sum of all even numbers between 1 and n.
+Write a program that prints a pattern of stars using nested loops.
+Write a program that prints a number in reverse order using a loop.
+Write a program to demonstrate the use of break and continue statements in loops.
+Write a program to print the multiplication table in reverse order.
+Write a program to find the sum of all odd numbers between 1 and n.
+Write a program to print a pyramid pattern of stars.
+Functions
+Write a program to find the factorial of a number using a recursive function.
+Write a function to calculate the sum of digits of a number.
+Write a function to check if a number is prime.
+Write a function to return the nth Fibonacci number.
+Write a function to swap two numbers using pass-by-reference.
+Write a function to calculate the power of a number using recursion.
+Write a program to find the area of a rectangle, circle, and triangle using function overloading.
+Write a function to reverse an array.
+Write a function to find the largest element in an array.
+Write a function to calculate the sum of an array using a loop.
+Write a function to search for an element in an array.
+Write a program that demonstrates the use of default function arguments.
+Write a program that demonstrates the use of function pointers.
+Arrays
+Write a program to find the largest and smallest elements in an array.
+Write a program to reverse an array.
+Write a program to merge two sorted arrays into one.
+Write a program to find the second largest element in an array.
+Write a program to sort an array in ascending order using bubble sort.
+Write a program to sort an array in descending order using selection sort.
+Write a program to perform matrix multiplication.
+Write a program to find the transpose of a matrix.
+Write a program to multiply two matrices.
+Write a program to check if an array is a palindrome.
+Write a program to find the intersection of two arrays.
+Write a program to rotate an array to the left by k positions.
+Write a program to remove duplicates from an array.
+Write a program to find the sum of diagonal elements of a matrix.
+Pointers
+Write a program to demonstrate the use of pointers.
+Write a program to swap two numbers using pointers.
+Write a program to find the length of a string using pointers.
+Write a program to dynamically allocate memory for an array using new and delete.
+Write a program that uses pointers to calculate the sum of two numbers.
+Write a program to calculate the factorial of a number using pointers.
+Write a program to implement a simple linked list using pointers.
+Write a program that demonstrates the use of a pointer to a pointer.
+Write a program to return a pointer from a function.
+Write a program to implement a simple linked list with functions for insert and delete operations.
+Classes and Objects
+Write a program to create a class called Rectangle with properties like length and width, and methods to calculate area and perimeter.
+Write a program to implement a class Student with attributes like name, roll number, and marks.
+Write a program to demonstrate the use of constructors and destructors.
+Write a program to create a class for complex numbers and implement operations like addition, subtraction, and multiplication.
+Write a program to implement a simple banking system with a BankAccount class.
+Write a program to implement operator overloading for addition and subtraction of two objects.
+Write a program to demonstrate function overloading.
+Write a program to demonstrate dynamic memory allocation using new and delete in a class.
+Write a program to implement copy constructor in a class.
+Write a program to implement a class that uses a friend function.
+Write a program to implement a class with a static member function.
+Inheritance
+Write a program to demonstrate single inheritance.
+Write a program to demonstrate multiple inheritance.
+Write a program to demonstrate multilevel inheritance.
+Write a program to demonstrate hybrid inheritance.
+Write a program that demonstrates the use of virtual functions and dynamic polymorphism.
+Write a program that demonstrates the use of base and derived class pointers for virtual functions.
+Write a program to implement pure virtual functions.
+Write a program to override a function in a derived class.
+Write a program to implement abstract classes.
+Polymorphism
+Write a program to implement dynamic method dispatch in C++.
+Write a program to demonstrate function overriding in C++.
+Write a program to implement a base class with virtual functions and derived classes that override the functions.
+Write a program to use virtual destructors.
+Write a program to demonstrate the use of abstract classes and pure virtual functions.
+Write a program to implement multiple forms of polymorphism using function overloading and operator overloading.
+Memory Management
+Write a program that demonstrates the use of new and delete operators.
+Write a program that allocates memory dynamically for an array of integers and deallocates it.
+Write a program to handle memory leaks by using destructors.
+Write a program to implement a class that manages a dynamic array.
+Write a program to handle memory allocation failures using exception handling.
+File Handling
+Write a program to read from a text file and display its content.
+Write a program to write data to a file.
+Write a program to append data to an existing file.
+Write a program to read a list of numbers from a file and calculate their sum.
+Write a program to copy the contents of one file to another.
+Write a program to search for a word in a file and display the line number.
+Write a program to count the number of words in a file.
+Templates
+Write a template function to find the maximum of two numbers.
+Write a template function to swap two variables.
+Write a template function to calculate the sum of two variables.
+Write a program to implement a generic stack using templates.
+Write a program to implement a generic linked list using templates.
+STL (Standard Template Library)
+Write a program to demonstrate the use of vectors in C++.
+Write a program to implement a map to store key-value pairs.
+Write a program to find the sum of all elements in a vector.
+Write a program to reverse a vector using STL.
+Write a program to sort a vector of integers.
+Write a program to demonstrate the use of set in C++.
+Write a program to demonstrate the use of queue in C++.
+Write a program to implement a priority queue using STL.
