@@ -1,14 +1,17 @@
 #include <iostream>
 using namespace std;
 
-class Parent{
+class Parent
+{
     public:
         int x=10;
-        Parent(){
+        Parent()
+        {
             cout<<"Parent Constructor Called!!"<<endl;
         }
 
-        void display(){
+        void display()
+        {
             cout<<"Parent Display : x="<<x<<endl;
         }
     protected:
@@ -16,22 +19,27 @@ class Parent{
     private:
         int z=30;
 };
-class child : private Parent{
+class child : private Parent
+{
     public:
-        void show(){
+        void show()
+        {
             Parent::display();
         }
 
-        child(){
+        child()
+        {
             cout<<"Child Constructor Called!!"<<endl;
         }
 
-        void display(){
+        void display()
+        {
             cout<<"Child Display : x="<<x<<" | y="<<y<<endl;
         }
 };
 
-int main(){
+int main()
+{
     child obj;
     obj.show();
     obj.display();
