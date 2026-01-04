@@ -50,7 +50,7 @@ Focus is on learning, not perfection
 
 ---
 
-* Tech Stack
+** Tech Stack
 
 Python
 
