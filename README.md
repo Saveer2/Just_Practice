@@ -1,4 +1,4 @@
-** Just Practice
+# Just Practice
 
 This repository contains my regular practice code while learning and strengthening my fundamentals in programming and problem solving.
 
